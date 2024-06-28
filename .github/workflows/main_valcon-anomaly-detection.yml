@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'valcon-anomaly-detection'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F829760757C74B6D900AA1A89F063E87 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64117C8F36F04232B91E80C4802E2426 }}
